@@ -52,5 +52,5 @@ INSERT INTO t_board(title,
 VALUES ('asdfsdf',
         'afadsfds',
         NOW(),
-        'admin')
+        'admin');
 
